@@ -12,7 +12,7 @@
     "license": "ISC",
     "dependencies": {
         "axios": "^0.19.2",
-        "color": "^3.1.2",
+        "colors": "^1.4.0",
         "commander": "^5.0.0",
         "configstore": "^5.0.1",
         "inquirer": "^7.1.0"
